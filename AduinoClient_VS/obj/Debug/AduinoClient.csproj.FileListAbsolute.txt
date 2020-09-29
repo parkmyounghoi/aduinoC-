@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\아두이노C#\AduinoClient\bin\Debug\AduinoClient.exe.config
+C:\Users\User\Desktop\아두이노C#\AduinoClient\bin\Debug\AduinoClient.exe
+C:\Users\User\Desktop\아두이노C#\AduinoClient\bin\Debug\AduinoClient.pdb
+C:\Users\User\Desktop\아두이노C#\AduinoClient\obj\Debug\AduinoClient.csprojAssemblyReference.cache
+C:\Users\User\Desktop\아두이노C#\AduinoClient\obj\Debug\AduinoClient.Form1.resources
+C:\Users\User\Desktop\아두이노C#\AduinoClient\obj\Debug\AduinoClient.Properties.Resources.resources
+C:\Users\User\Desktop\아두이노C#\AduinoClient\obj\Debug\AduinoClient.csproj.GenerateResource.cache
+C:\Users\User\Desktop\아두이노C#\AduinoClient\obj\Debug\AduinoClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\아두이노C#\AduinoClient\obj\Debug\AduinoClient.exe
+C:\Users\User\Desktop\아두이노C#\AduinoClient\obj\Debug\AduinoClient.pdb
